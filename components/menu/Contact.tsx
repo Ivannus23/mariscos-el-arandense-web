@@ -42,7 +42,7 @@ export default function Contact() {
               Horario
             </p>
             <p className="mt-2 text-lg font-black">
-              Lunes a Domingo
+              Viernes a Domingo
               <br />
               11:00 AM - 6:00 PM
             </p>
