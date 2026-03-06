@@ -9,7 +9,7 @@ const charolas = [
     description: "Completos con arroz blanco y ensalada.",
     price: "$100 USD",
     image: "/menu/camarones-cucaracha.jpeg",
-    badge: "Charola",
+    badge: "Especialidad",
   },
   {
     name: "Pulpo con Camarón en Salsa Negra",

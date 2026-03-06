@@ -20,7 +20,7 @@ export default function Contact() {
           </p>
 
           <a
-            href="https://wa.me/3858664561"
+            href="https://wa.me/13858664561"
             target="_blank"
             rel="noreferrer"
             className="mt-6 inline-flex rounded-full bg-[#f97316] px-6 py-3 text-sm font-extrabold text-white shadow-lg transition hover:scale-[1.03] hover:bg-[#ea580c]"
@@ -42,9 +42,9 @@ export default function Contact() {
               Horario
             </p>
             <p className="mt-2 text-lg font-black">
-              Lun, Vier y Sab
+              Lunes a Domingo
               <br />
-              10:00 AM - 6:00 PM
+              11:00 AM - 6:00 PM
             </p>
           </div>
 
