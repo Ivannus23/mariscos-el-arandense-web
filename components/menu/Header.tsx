@@ -52,7 +52,7 @@ export default function Header() {
         </nav>
 
         <a
-          href="https://wa.me/3858664561"
+          href="https://wa.me/13858664561"
           target="_blank"
           rel="noreferrer"
           className="rounded-full bg-[#f97316] px-4 py-2 text-sm font-bold text-white shadow-lg transition hover:scale-[1.03] hover:bg-[#ea580c]"

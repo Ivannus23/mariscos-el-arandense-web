@@ -48,7 +48,7 @@ export default function MenuCard({
         ) : null}
 
         <a
-          href={`https://wa.me/3858664561?text=${encodeURIComponent(
+          href={`https://wa.me/13858664561?text=${encodeURIComponent(
             `Hola, quiero ordenar ${name}`
           )}`}
           target="_blank"
